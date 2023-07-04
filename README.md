@@ -1,1 +1,1 @@
-# Github_Project_Akri_Minute
+simple calculator made with c.
